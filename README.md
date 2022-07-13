@@ -13,3 +13,8 @@ Check the img folder for more images of all the items I currently have, and the 
 - [xlat's livejournal tag for elektronika mc 7004](https://xlat.livejournal.com/tag/Электроника%20МС%207004)
 - [Wikipedia page of all Elektronika products](https://ru.wikipedia.org/wiki/Электроника_(торговая_марка))
 - [some sketchy site with .djvu manuals for various products as well as this keyboard](http://era-cg.su/grands/dvkdoc.htm)
+
+## Links to start thinking about making the keyboard come to life
+(Thanks @ChrisRenfrow!)
+- [So you want to write an embedded driver in Rust](https://dev.to/minkovsky/so-you-want-to-write-an-embedded-driver-in-rust-2iko)
+- [Writing embedded drivers in Rust isn't that hard](https://hargonix.github.io/rust-2c-driver-p1/)
