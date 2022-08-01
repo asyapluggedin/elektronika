@@ -19,3 +19,8 @@ Check the img folder for more images of all the items I currently have, and the 
 - [So you want to write an embedded driver in Rust](https://dev.to/minkovsky/so-you-want-to-write-an-embedded-driver-in-rust-2iko)
 - [Writing embedded drivers in Rust isn't that hard](https://hargonix.github.io/rust-2c-driver-p1/)
 _ [So how does a PS/2 keyboard interface work? on Youtube](https://www.youtube.com/watch?v=7aXbh9VUB3U)
+
+## To Do List
+
+– Schedule IRL hack with El
+- Translate manual
