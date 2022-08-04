@@ -22,5 +22,5 @@ _ [So how does a PS/2 keyboard interface work? on Youtube](https://www.youtube.c
 
 ## To Do List
 
-– Schedule IRL hack with El
+- Schedule IRL hack with El
 - Translate manual
